@@ -1,6 +1,6 @@
 {
   "name": "Rust_Frontend",
-  "version": "beta",
+  "version": "1.0.0",
   "description": "Learning rust frontend",
   "main": "index.js",
   "repository": "https://github.com/thirdeyeclub/Rust_Frontend.git",
